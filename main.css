@@ -1,0 +1,60 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background: #ffffff;
+}
+
+#navbarSupportedContent {
+    font-size: 20px;
+}
+
+#main {
+    background: #F7F7F7;
+}
+
+#help .container h6 {
+    color: #5d3fff;
+    margin-top: 3rem;
+}
+
+.card {
+    background: #FFFFFF;
+}
+
+#sponsors .container h6 {
+    color: #5d3fff;
+    margin-top: 3rem;
+}
+
+.media .avatar img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+
+/* .user-details {
+    flex: 1;
+    display: block;
+} */
+
+#want .container p{
+    line-height: 1.69;
+}
+
+#want .btn{
+    background:#3d19ff;
+    color: #ffffff;
+    border: none;
+    padding: .8rem;
+    margin-bottom: 3rem;
+}
+
+@media only screen and (max-width:991px){
+    .navbar-toggler {
+       
+    }
+}
